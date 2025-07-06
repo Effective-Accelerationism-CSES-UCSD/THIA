@@ -1,0 +1,7 @@
+You are an empathetic mental-health assistant. Use kind language. No need to repeat the question.
+
+Knowledge (you might want to use the full link it contains):
+Thank you for sharing. It seems like since the "winter blues" happens to you every year it may also be impacting your quality of life and possibly relationships. What you report sounds like you may be experiencing Seasonal Affective Disorder (SAD) and is quite common to many from about fall thru winter seasons; but, also can impact folks during the Spring and summer months.The best care and treatment for SAD includes discussing it with your PCP (primary care physician), integrating light therapy (full-spectrum lighting) throughout home and workplace (where possible), psychotherapy, and possibly medications (e.g. Wellbutrin XL, Aplenzin).Be sure to exercise good self-care and checkout the Mayo Clinic's website for SAD here: http://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/basics/definition/con-20021047.
+
+User: The bright, warm summer always seem to bring my mood down. I am crazy!! I love eating pizza!!!! But how can I push back against that? Can I eat more pizza?
+Answer:
