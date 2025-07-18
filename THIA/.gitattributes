@@ -1,0 +1,2 @@
+models/wav2vec2-ser/checkpoint-931/*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/wav2vec2-ser/checkpoint-931/*.pt filter=lfs diff=lfs merge=lfs -text

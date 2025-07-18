@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+torchaudio
+librosa
+sounddevice
+pandas
+numpy
+scikit-learn
